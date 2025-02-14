@@ -20,3 +20,4 @@ streamlit run myApp.py
 ```
 
 ## Live demo
+Access the live demo [here](https://lamees-f-ocr-application-myapp-mf57oa.streamlit.app/)!
