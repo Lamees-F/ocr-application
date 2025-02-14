@@ -4,6 +4,9 @@ import cv2
 import numpy as np
 from PIL import Image
 
+st.set_page_config(page_title="OCR mini project")
+
+
 reader = easyocr.Reader(['en','ar'])  
 
 st.title("📸 OCR App - Extract Text using EasyOCR")
